@@ -1,0 +1,29 @@
+#p1{
+    color: crimson;
+    text-align: right;
+    font-style: italic;
+}
+
+#p2{
+    color: darkviolet;
+    text-decoration: line-through;
+    text-transform: uppercase;
+}
+
+#p3{
+    color: green;
+    font-family: "DejaVu Sans", sans-serif ;
+    font-size: 120%;
+}
+
+#p4{
+    color: darkblue;
+    text-shadow: -2px 2px 2px green;
+}
+container{
+    display: flex;
+}
+.cuadrado{
+    border-radius: 15px;
+}
+
