@@ -25,5 +25,9 @@ container{
 }
 .cuadrado{
     border-radius: 15px;
+    border: black 2px solid;
+    padding: 10px;
+    width: 450px;
+    height: 200px;
 }
 
